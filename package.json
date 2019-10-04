@@ -1,0 +1,17 @@
+{
+  "name": "news-crawler",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Raphael Kieling",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "crawler": "^1.2.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
